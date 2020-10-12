@@ -6,7 +6,7 @@ Do you ever go hungry while you fruitlessly debate what to eat? It’s the age-o
 It gives you choices based on your input. If you want to eat out it will show you restaurants. If you want to cook, it will show you recipes. We made this because we are indecisive, hungry people who want to make informed eating decisions. We used the Spoonacular, Yelp, and Google Maps APIs in our project. We originally wanted to use Zomato’s API in place of Yelp. We integrated use of the Zomato API into our project, however, it turned out that it would not fully meet our needs. Thus it was replaced by Yelp.
 
 
-[Click here to find out What's for Dinner.](https://awebb8.github.io/project-1/)
+[Click here to find out What's for Dinner.](https://dpan-5.github.io/whats-for-dinner/)
 
 ![Image of the Into Page](./Assets/images/Project-Intro-Screenshot.PNG)
 
